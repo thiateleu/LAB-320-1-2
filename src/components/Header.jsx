@@ -1,7 +1,7 @@
 import React from"react";
 import Nav from "./Nav";
 
-function Nav() {
+function Header() {
     return (
         <header>
             <h1>Fashion Blog</h1>
@@ -10,4 +10,4 @@ function Nav() {
         </header>
     );
 }
-export default App;
+export default Header;
